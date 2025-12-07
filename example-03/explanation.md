@@ -1,4 +1,4 @@
-# Example – Demonstrate SEEK_SET, SEEK_CUR, and SEEK_END<br>
+# Example-03 – Demonstrate SEEK_SET, SEEK_CUR, and SEEK_END<br>
 
 ## Purpose<br>
 This program demonstrates the use of lseek() with SEEK_SET, SEEK_CUR, and SEEK_END.<br>
