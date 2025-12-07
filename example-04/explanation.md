@@ -1,4 +1,4 @@
-# Example – Duplicate a file descriptor and use old/new fds<br>
+# Example-04 – Duplicate a file descriptor and use old/new fds<br>
 
 ## Purpose<br>
 This program demonstrates duplicating a file descriptor using dup().<br>
