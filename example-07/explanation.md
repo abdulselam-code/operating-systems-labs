@@ -1,4 +1,4 @@
-# Example – Create an orphan process (only C2 becomes orphan, clean output)<br>
+# Example-07 – Create an orphan process (only C2 becomes orphan, clean output)<br>
 
 ## Purpose<br>
 This program demonstrates how to create an orphan process using fork().<br>
