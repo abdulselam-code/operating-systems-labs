@@ -1,4 +1,4 @@
-# Example 01 – Read / Write System Call Demo<br>
+# Example-01 – Read / Write System Call Demo<br>
 
 ## Purpose<br>  
 The purpose of this example is to demonstrate basic I/O in Unix-like operating systems using the read() and write() system calls in C: reading input from standard input (keyboard) and writing output to standard output (screen).<br>
