@@ -1,4 +1,4 @@
-# Example – Demonstration of wait() system call<br>
+# Example-06 – Demonstration of wait() system call<br>
 
 ## Purpose<br>
 This program demonstrates the use of the wait() system call.<br>
